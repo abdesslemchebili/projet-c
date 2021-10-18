@@ -1,4 +1,4 @@
-1 include<stdio.h>$
+1 include<stdio.h>
 2 int main 
 3 {  
 4 int a,b ; 
