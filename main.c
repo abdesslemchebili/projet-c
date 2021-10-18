@@ -1,11 +1,11 @@
-1 include<stdio.h>
-2 int main 
-3 {  
-4 int a,b ; 
-5 a = 10 ; 
-6 b = 3 ; 
-7 printf( " \n a= %d b= %d",a,b) ; 
-8 } 
+include<stdio.h>
+int main 
+{  
+ int a,b ; 
+ a = 10 ; 
+ b = 3 ; 
+ printf( " \n a= %d b= %d",a,b) ; 
+} 
 
 
 
