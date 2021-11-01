@@ -1,6 +1,7 @@
 int sommer(int a, int b) {
 return (a + b);
 }
+
 int soustraire(int a, int b) {
 return (a - b);
 }
