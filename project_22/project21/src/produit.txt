@@ -1,0 +1,4 @@
+14 78 fruits 88 normal 10-12-2021 78
+sec 75 normal 16 -12-2023 12 1
+hdhd animal 100 12 -12-2021 1 1
+166 dfbdf fruit 4 normal 8-12-2021 13

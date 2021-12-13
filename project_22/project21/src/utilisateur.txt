@@ -1,0 +1,6 @@
+1111 slouma chebili 0000 Etudiant Homme 1
+2222 benhmida ala 123 Technicien Homme 4
+007 chalbi firas 345 Agent_de_foyer Homme 3
+444 hgfjh chedya 369 Technicien Homme 4
+554 hjfjhb ghanem 456 Agent_de_resto Homme 5
+88 hjbhjb raed 789 Etudiant Homme 2
